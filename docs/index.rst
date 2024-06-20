@@ -3,9 +3,11 @@ Welcome to PyPlaneMono's documentation!
 =======================================
 
 .. toctree::
+
    :maxdepth: 2
    :caption: Contents:
-
+   tutorial
+   installation
 ============
 Introduction
 ============
@@ -15,6 +17,11 @@ the geometry of plane grating monochromators (PGM), colloquiually known as plane
 The PGM is an important component in all settings of synchrotron and FEL radiation in the soft X-ray range.
 
 PyPlaneMono offers the following features:
+
+.. image:: ./images/different_cffs.png
+   :width: 600px
+   :align: center
+
 
 * Fully simulate the geometry of any arbitrary PGM 
 * Visualise PGM geometry (side view and top view) with matplotlib
