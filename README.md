@@ -25,4 +25,4 @@ Wang, Y. P., Walters, A. C., Bazan da Silva, M., *et al*., PGMweb: An Online Sim
 
 A web based version of this library with a GUI is also available on the [Diamond server][1].
 
-[1]:https://pgmtool.diamond.ac.uk
+[1]:https://pgmweb.diamond.ac.uk
