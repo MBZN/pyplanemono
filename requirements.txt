@@ -4,3 +4,4 @@ matplotlib <=3.5.3, >=3.3.2
 dill >= 0.3.6
 colorama >= 0.4.4
 pyrsistent >= 0.19.3
+shadow3 >= 23.9.19

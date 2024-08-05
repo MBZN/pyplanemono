@@ -32,7 +32,7 @@ with significant input from Dr Andrew Walters and Murilo Bazan da Silva.
 
 We recommend you read the tutorial to get started with PyPlaneMono.
 
-There is now also a new version of an online GUI for PyPlaneMono, which can be found `here <https://pgmtool.diamond.ac.uk>`_.
+There is now also a new version of an online GUI for PyPlaneMono, which can be found `here <https://pgmweb.diamond.ac.uk>`_.
 
 We are always happy to hear feedback and suggestions. Please contact us at:
 patrick.wang@diamond.ac.uk
