@@ -20,8 +20,7 @@ $ cd $! && python -m pip install -e .
 ```
 
 ## Example
-To see the full calculations carried out for the B07c beamline at Diamond, please consult [this repository][https://github.com/MBZN/b07c-raytracing/
-].
+To see the full calculations carried out for the B07c beamline at Diamond, please consult [this repository][https://github.com/MBZN/b07c-raytracing/].
 ## References
 If you have found this library useful, please consider citing the following:
 
