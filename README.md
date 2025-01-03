@@ -27,7 +27,8 @@ If you have found this library useful, please consider citing the following:
 Wang, P. Y., Bazan da Silva, M., Hand, M., Wang, H., Chang, P., Beilsten-Edmands, V., Kim, T. K., Lee, T.-L., Sawhney, K. & Walters, A. C. (2025). J. Synchrotron Radiat. 32(1), 261–268.
 https://doi.org/10.1107/S1600577524011603
 
-A web based version of this library with a GUI is also available on the [Diamond server][1].
+A web based version of this library with a GUI is also available on the [Diamond server][1]. An [offline version][3] can also be run on your local machine with python and a modern browser.
 
 [1]:https://pgmweb.diamond.ac.uk
 [2]:https://github.com/MBZN/b07c-raytracing/
+[3]:https://github.com/DiamondLightSource/pygmweb
