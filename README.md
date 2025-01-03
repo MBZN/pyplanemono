@@ -15,9 +15,13 @@ You should take extra care when you wish to use PyPlaneMono's API with *SHADOW* 
 
 You can also install from source should you wish to develop PyPlaneMono yourself:
 ``` console
-$ git clone https://github.com/patrickwang27/pyplanemono pyplanemono
+$ git clone https://github.com/MBZN/pyplanemono pyplanemono
 $ cd $! && python -m pip install -e .
 ```
+
+## Example
+To see the full calculations carried out for the B07c beamline at Diamond, please consult [this repository][https://github.com/MBZN/b07c-raytracing/
+].
 ## References
 If you have found this library useful, please consider citing the following:
 
