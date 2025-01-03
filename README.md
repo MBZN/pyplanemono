@@ -21,7 +21,8 @@ $ cd $! && python -m pip install -e .
 ## References
 If you have found this library useful, please consider citing the following:
 
-Wang, Y. P., Walters, A. C., Bazan da Silva, M., *et al*., PGMweb: An Online Simulation Tool for Plane Grating Monochromators, *In Preparation*.
+Wang, P. Y., Bazan da Silva, M., Hand, M., Wang, H., Chang, P., Beilsten-Edmands, V., Kim, T. K., Lee, T.-L., Sawhney, K. & Walters, A. C. (2025). J. Synchrotron Radiat. 32(1), 261–268.
+https://doi.org/10.1107/S1600577524011603
 
 A web based version of this library with a GUI is also available on the [Diamond server][1].
 
